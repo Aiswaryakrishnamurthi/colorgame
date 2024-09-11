@@ -34,11 +34,11 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https:/Aiswaryakrishnamurthi/github.com//colorgame.git
+    git clone git clone https:/Aiswaryakrishnamurthi/github.com//colorgame.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd color-prediction-game
+    cd colorgame
     ```
 3. Open `color.html` in your preferred web browser to play the game locally.
 
